@@ -8,8 +8,7 @@
 "template_id": "y3mUhGa90CCokNtO8mog4bJMeZ9fN1_Lzhmuzt1C74s",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oy0wj5-BShIYgvppD5CxJScI-jTU"],
- 
-# 信息配置
+ # 信息配置
 # 和风天气apikey
 "weather_key": "7b6c87fbac4047a98bebd820576d100f",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
@@ -23,5 +22,5 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
-"note_en": ""
+"note_en": "",
 }
